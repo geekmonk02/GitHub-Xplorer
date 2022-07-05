@@ -1,0 +1,15 @@
+.navMod{
+  height:100px !important;
+}
+
+.outer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.repo-outer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
